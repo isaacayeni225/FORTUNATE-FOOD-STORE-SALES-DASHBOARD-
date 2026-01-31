@@ -22,3 +22,6 @@ The Fortunate Food Store dashboard will enable the owner of the business to:
 
 ## FORTUNATE FOOD STORE SALES DATA
 ![image alt](https://github.com/isaacayeni225/FORTUNATE-FOOD-STORE-SALES-DASHBOARD-/blob/6beeff0e5d17626a42f1819e6db95bd6f6f4ff26/FORTUNATE%20DATA.png)
+
+## THE DASHBOARD 
+![image alt](https://github.com/isaacayeni225/FORTUNATE-FOOD-STORE-SALES-DASHBOARD-/blob/b975f113b76a16f8b81d734a35973191d989f12c/FORTUNATE.png)
