@@ -19,3 +19,6 @@ The Fortunate Food Store dashboard will enable the owner of the business to:
 - Monitor sales performance and identify areas for improvement
 - Make informed decisions on inventory management, pricing, and promotions
 - Track progress towards business goals and objectives
+
+## FORTUNATE FOOD STORE SALES DATA
+![image alt](https://github.com/isaacayeni225/FORTUNATE-FOOD-STORE-SALES-DASHBOARD-/blob/6beeff0e5d17626a42f1819e6db95bd6f6f4ff26/FORTUNATE%20DATA.png)
